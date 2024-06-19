@@ -5,7 +5,6 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import org.hibernate.query.Query;
 import org.springframework.stereotype.Repository;
-
 import java.util.List;
 
 @Repository
